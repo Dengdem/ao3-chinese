@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：Fara
 更新时间：2026-02-03
 
@@ -6,7 +6,6 @@
 Jake Sully = 杰克 萨利
 Neytiri：奈蒂莉
 Neteyam：奈特亚
-Lo'ak：洛阿克
 Loak：洛阿克
 Kiri：琪莉
 Tuk：图克
@@ -14,18 +13,17 @@ Ronal：罗娜尔
 Tonowari:特诺瓦里
 Tsireya：提蕾娅
 Aonung：奥农
-Ao'nung：奥农
-Mo'at：莫阿特
+Moat：莫阿特
 Miles Quaritch = 迈尔斯 库里奇
 Grace Augustine = 格蕾丝 奥古斯汀
 Varang:瓦朗
-Neytiri te Tskaha Mo'at'ite：奈蒂莉
-Neteyam te Suli Tsyeyk'itan：奈特亚
-Lo'ak te Suli Tsyeyk'itan：洛阿克
-Kiri te Suli Kireysi'ite：琪莉
-Tuktirey te Suli Neytiri'ite：图克
-Tsu'tey：苏泰
-Tsu'tey te Rongloa Ateyitan：苏泰
+Neytiri te Tskaha Moatite：奈蒂莉
+Neteyam te Suli Tsyeykitan：奈特亚
+Loak te Suli Tsyeykitan：洛阿克
+Kiri te Suli Kireysiite：琪莉
+Tuktirey te Suli Neytiriite：图克
+Tsutey：苏泰
+Tsutey te Rongloa Ateyitan：苏泰
 Rotxo：卢托
 Trudy：楚迪
 Norm：诺曼
@@ -44,7 +42,6 @@ Toruk：魅影
 
 // 种族
 Navi：纳威人
-Na'vi：纳威人
 Avatar：阿凡达
 Reef People：岛礁族
 Omatikaya：奥马蒂卡亚族
@@ -54,7 +51,7 @@ Sky People：天空人
 
 // 称谓
 Tsahik：大祭司
-Olo'eyktan：首领
+Oloeyktan：首领
 Toruk Makto：托鲁克马克多
 
 
@@ -66,5 +63,5 @@ kuru：库鲁
 Tsaheylu：萨黑鲁
 
 禁翻词条
-Awa'atlu
+Awaatlu
 marui
