@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：Fara
 更新时间：2026-02-03
 
@@ -6,17 +6,26 @@
 Jake Sully = 杰克 萨利
 Neytiri：奈蒂莉
 Neteyam：奈特亚
-Loak：洛阿克
 Kiri：琪莉
 Tuk：图克
 Ronal：罗娜尔
 Tonowari:特诺瓦里
 Tsireya：提蕾娅
-Aonung：奥农
-Moat：莫阿特
 Miles Quaritch = 迈尔斯 库里奇
 Grace Augustine = 格蕾丝 奥古斯汀
 Varang:瓦朗
+Rotxo：卢托
+Trudy：楚迪
+Norm：诺曼
+Payakan：帕亚坎
+Eywa：爱娃
+Seze：西子
+
+通用词条
+
+Loak：洛阿克
+Aonung：奥农
+Moat：莫阿特
 Neytiri te Tskaha Moatite：奈蒂莉
 Neteyam te Suli Tsyeykitan：奈特亚
 Loak te Suli Tsyeykitan：洛阿克
@@ -24,15 +33,7 @@ Kiri te Suli Kireysiite：琪莉
 Tuktirey te Suli Neytiriite：图克
 Tsutey：苏泰
 Tsutey te Rongloa Ateyitan：苏泰
-Rotxo：卢托
-Trudy：楚迪
-Norm：诺曼
-Payakan：帕亚坎
-Eywa：爱娃
-Seze：西子
-Sa'ata：萨塔
-
-通用词条
+Saata：萨塔
 
 // 动物
 ilu：依鲁
